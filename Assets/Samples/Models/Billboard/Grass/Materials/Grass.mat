@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: YAxisBillboard
-  m_Shader: {fileID: -6465566751694194690, guid: 57348236283de4940a4519c2b94b7847,
+  m_Name: Grass
+  m_Shader: {fileID: -6465566751694194690, guid: 5ddea86c3f337495d84fcc10e28c8790,
     type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
