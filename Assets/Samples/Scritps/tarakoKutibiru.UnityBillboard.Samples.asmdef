@@ -1,0 +1,14 @@
+{
+    "name": "tarakoKutibiru.UnityBillboard.Samples",
+    "rootNamespace": "tarakoKutibiru.UnityBillboard.Samples",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
