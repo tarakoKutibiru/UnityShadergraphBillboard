@@ -1,0 +1,8 @@
+{
+    "name": "jp.tarakokutibiru.unitybillboard",
+    "description": "Billboard shader created with Shader Graph",
+    "version": "0.0.1",
+    "displayName": "UnityBillboard",
+    "unity": "2021.3",
+    "dependencies": {}
+}
