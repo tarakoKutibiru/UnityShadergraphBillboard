@@ -13,15 +13,21 @@ This is a billboard shader available in ShaderGraph.
 
 ![スクリーンショット 2023-02-08 13 33 58](https://user-images.githubusercontent.com/17213467/217434628-ac209fd6-098d-44dd-ab45-a7516b5d4882.png)
 
+# Installation
+
+## UPM
+
+```
+"jp.tarakokutibiru.unity-shadergraph-billboard": "https://github.com/tarakoKutibiru/UnityShadergraphBillboard.git?path=Assets/UnityShadergraphBillboard#master",
+```
+
+## UnityPackage
+
+https://github.com/tarakoKutibiru/UnityShadergraphBillboard/releases
+
 # Reference
 
 https://github.com/gam0022/unity-urp-shader
 
 
 https://answers.unity.com/questions/1621611/how-to-do-billboard-shader-with-shadergraphhow-to.html
-
-# External Assets
-
-- [Tree Texture](https://www.pngall.com/tree-png/download/23754)
-
-- [Ground Texture](https://www.deviantart.com/fabooguy/art/Dirt-Ground-Texture-Tileable-2048x2048-441212191)
