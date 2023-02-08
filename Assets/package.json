@@ -1,5 +1,5 @@
 {
-    "name": "jp.tarakokutibiru.unitybillboard",
+    "name": "jp.tarakokutibiru.unity-shadergraph-billboard",
     "description": "Billboard shader created with Shader Graph",
     "version": "0.0.1",
     "displayName": "UnityBillboard",

@@ -1,6 +1,6 @@
 {
-    "name": "tarakoKutibiru.UnityBillboard.Samples",
-    "rootNamespace": "tarakoKutibiru.UnityBillboard.Samples",
+    "name": "tarakoKutibiru.UnityShadergraphBillboard.Samples",
+    "rootNamespace": "tarakoKutibiru.UnityShadergraphBillboard.Samples",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

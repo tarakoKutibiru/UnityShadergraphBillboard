@@ -1,4 +1,4 @@
-# UnityYAxisBillboard
+# UnityShadergraphBillboard
 This is a billboard shader available in ShaderGraph.
 
 # Billboard

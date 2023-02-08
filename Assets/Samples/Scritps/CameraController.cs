@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace tarakoKutibiru.UnityBillboard.Samples
+namespace tarakoKutibiru.UnityShadergraphBillboard.Samples
 {
     public class CameraController : MonoBehaviour
     {

@@ -91,7 +91,7 @@
         },
         "preventRotation": false
     },
-    "m_Path": "tarakoKutibiru/UnityBillboard",
+    "m_Path": "tarakoKutibiru/UnityShadergraphBillboard",
     "m_GraphPrecision": 0,
     "m_PreviewMode": 2,
     "m_OutputNode": {
